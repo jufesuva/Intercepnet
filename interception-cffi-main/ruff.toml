@@ -1,0 +1,11 @@
+select = [
+    "I",
+    "UP",
+]
+ignore = [
+]
+
+line-length = 200
+
+[format]
+quote-style = "single"

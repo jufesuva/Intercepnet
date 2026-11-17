@@ -1,0 +1,15 @@
+cd "interception-cffi-main"
+
+pip install -r requirements.txt
+
+python setup.py install
+
+python -m interception.samples.x2y
+
+INSTALAR CONTROLADOR:
+
+.\install-interception.exe /install
+
+.\install-interception.exe /list
+
+winget install --id Microsoft.VisualStudio.2022.BuildTools --source winget
