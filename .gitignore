@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+.vscode/
+NUEVA INSTALACION/
+*.zip
+COMANDOS.txt
+*.py
+vs_BuildTools*
